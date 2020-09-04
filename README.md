@@ -13,8 +13,8 @@ cph-js437@cphbusiness.dk
 
 ## 04_Thursday
 * www.jkss.dk / jkss.dk setup with SSL/TLS (completed)
-	* [www.jkss.dk](www.jkss.dk)
-    * [jkss.dk](jkss.dk)
+	* [www.jkss.dk](https://www.jkss.dk)
+    * [jkss.dk](https://jkss.dk)
 
 ## 05_Friday
 * Deployment-project (completed)
