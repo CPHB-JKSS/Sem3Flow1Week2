@@ -1,0 +1,27 @@
+1: Monitoring HTTP Headers 1
+    General:
+        Request URL: The URL determening where to send the request
+        Request Method: What request method to use, in this case "GET", could also be POST as an example.
+        Status Code: Returns the status code of the request, example would be 403 if the request is trying to access something it is not allowed to access.
+        - In this case we get a "304"-code for allowed access but a response with a non-modified document (i.e. "hello world").
+        Remote Address: Hvilken ip-addresse requesten sendes til og hvor den afventer en response.
+    
+    Response Headers:
+        Accept-Ranges
+        Connection
+        Content-Length
+        Content-Type
+        Date
+        ETag
+        Kepp-Alive
+        Last-modified
+
+    Request Headers:
+        Accept
+        Accept-Encoding
+        Accept-Language
+        Cache-Control
+
+2: Monitoring HTTP Headers 2
+
+3: Monitoring HTTP Headers 3  (Response-codes 3xx)
