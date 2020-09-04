@@ -1,9 +1,8 @@
 # Flow 1 Week 2 Review
 
-| ------- |:------------------------:|
-| Author  | Joakim Skaarup Stensnæs  |
-| CPH Id  | JS437                    |
-| Email   | cph-js437@cphbusiness.dk |
+Author:     Joakim Skaarup Stensnæs\
+CPH Id:     JS437\
+Email:      cph-js437@cphbusiness.dk\
 
 ## 02_Tuesday
 * Fundamental Network Topics (Completed)
