@@ -14,7 +14,10 @@ Email: &nbsp;&nbsp;&nbsp;&nbsp;cph-js437@cphbusiness.dk\
 ## 04_Thursday
 * www.jkss.dk / jkss.dk setup with SSL/TLS (completed)
 	* [www.jkss.dk](https://www.jkss.dk)
+        * [SSL Report](https://www.ssllabs.com/ssltest/analyze.html?d=www.jkss.dk)
     * [jkss.dk](https://jkss.dk)
+        * [SSL Report](https://www.ssllabs.com/ssltest/analyze.html?d=jkss.dk)
+
 
 ## 05_Friday
 * Deployment-project (completed)
